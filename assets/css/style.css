@@ -1,1 +1,9 @@
+body {
+  background: #f7f7f7;
+  font-family: "Pretendard Variable", "Google Sans Code", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+}
 
+.main_title{
+  font-family: "Google Sans Code", monospace;
+  font-size: 48px;
+}
